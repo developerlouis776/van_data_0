@@ -1,0 +1,58 @@
+{
+  "files": [
+    {
+      "id": "2025-09-20T04-44-32-213Z",
+      "filename": "image.jpg",
+      "originalFilename": "image.jpg",
+      "type": "image/jpeg",
+      "createdAt": "2025-09-20T04:44:32.213Z",
+      "description": "",
+      "lastOpened": "2025-09-20T04:44:32.213Z",
+      "chunkIndex": 0,
+      "totalChunks": 1,
+      "gitHubRepo": "van_data_0",
+      "chunkFilePath": "chunks/2025-09-20T04-44-32-213Z/0.json",
+      "width": 3024,
+      "height": 4032,
+      "duration": 0,
+      "folder": "others",
+      "previews": {
+        "thumbnail": {
+          "filePath": "previews/2025-09-20T04-44-32-213Z/thumbnail.json",
+          "iv": [
+            111,
+            138,
+            58,
+            199,
+            212,
+            23,
+            106,
+            182,
+            201,
+            100,
+            113,
+            73
+          ],
+          "salt": [
+            192,
+            38,
+            148,
+            117,
+            19,
+            54,
+            249,
+            96,
+            157,
+            156,
+            120,
+            37,
+            160,
+            32,
+            1,
+            18
+          ]
+        }
+      }
+    }
+  ]
+}
