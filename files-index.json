@@ -53,6 +53,95 @@
           ]
         }
       }
+    },
+    {
+      "id": "2025-09-20T10-51-17-826Z",
+      "filename": "What are truffles, and why are they so expensive  - Carolyn Beans.mp4.part_1_of_6",
+      "originalFilename": "What are truffles, and why are they so expensive  - Carolyn Beans.mp4",
+      "type": "video/mp4",
+      "createdAt": "2025-09-20T10:51:17.826Z",
+      "description": "",
+      "lastOpened": "2025-09-20T10:51:17.826Z",
+      "chunkIndex": 0,
+      "totalChunks": 6,
+      "gitHubRepo": "van_data_0",
+      "chunkFilePath": "chunks/2025-09-20T10-51-17-826Z/0.json",
+      "width": 1920,
+      "height": 1080,
+      "duration": 388.655601,
+      "folder": "others",
+      "previews": {
+        "thumbnail": {
+          "filePath": "previews/2025-09-20T10-51-17-826Z/thumbnail.json",
+          "iv": [
+            217,
+            150,
+            119,
+            216,
+            73,
+            40,
+            205,
+            211,
+            107,
+            146,
+            91,
+            151
+          ],
+          "salt": [
+            247,
+            131,
+            171,
+            168,
+            12,
+            105,
+            164,
+            133,
+            234,
+            168,
+            72,
+            104,
+            133,
+            235,
+            183,
+            103
+          ]
+        },
+        "medium": {
+          "filePath": "previews/2025-09-20T10-51-17-826Z/medium.json",
+          "iv": [
+            236,
+            234,
+            170,
+            162,
+            31,
+            24,
+            83,
+            25,
+            79,
+            40,
+            126,
+            153
+          ],
+          "salt": [
+            141,
+            149,
+            63,
+            218,
+            154,
+            66,
+            52,
+            59,
+            104,
+            156,
+            204,
+            20,
+            27,
+            21,
+            11,
+            132
+          ]
+        }
+      }
     }
   ]
 }
